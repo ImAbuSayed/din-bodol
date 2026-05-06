@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/din-bodol/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Din Bodol](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Din Bodol](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> মাতাল হাওয়ায় আজ হারিয়েছি আমি.. হারিয়েছি আমি..
+> তোমার উষ্ণ ঠোঁটে প্রেম যে বড্ড দামি
+> অন্ধকার এই রাতে তুমি শুধু আমার.. শুধু আমার..
+> ভেঙ্গে দিতে চাই সব বাধা যে সীমানার
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
