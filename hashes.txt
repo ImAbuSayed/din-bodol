@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Din Bodol
+
+This log tracks the cryptographic history and versioning for the song **Din Bodol** (din-bodol).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:48:50.903614 | `v1` | `16ad5b055b1636913e6008c1a11da2b13a2abfd980b05f7999eebbca2ccf0292` | `57fd21c7592f57430f9c10ea98b523140593ce2c897b16dd0194889767554fb3` | `2026-05-08_din-bodol-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
